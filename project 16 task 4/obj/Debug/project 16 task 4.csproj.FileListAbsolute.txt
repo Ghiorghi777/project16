@@ -1,0 +1,7 @@
+D:\Project\project 16 task 4\bin\Debug\project 16 task 4.exe.config
+D:\Project\project 16 task 4\bin\Debug\project 16 task 4.exe
+D:\Project\project 16 task 4\bin\Debug\project 16 task 4.pdb
+D:\Project\project 16 task 4\obj\Debug\project 16 task 4.csproj.AssemblyReference.cache
+D:\Project\project 16 task 4\obj\Debug\project 16 task 4.csproj.CoreCompileInputs.cache
+D:\Project\project 16 task 4\obj\Debug\project 16 task 4.exe
+D:\Project\project 16 task 4\obj\Debug\project 16 task 4.pdb
